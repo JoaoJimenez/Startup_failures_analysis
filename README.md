@@ -26,6 +26,4 @@ This project analyzes startup failures from the last 32 years (1992-2024) to ide
 - GitHub for sharing
 
 ## 🚀 How to Run the Notebook
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/startup-failure-analysis.git
+Clone this repo and open the `.ipynb` file in JupyterLab or Google Colab.
